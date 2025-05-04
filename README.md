@@ -36,21 +36,21 @@ This project implements multiple methods for matching stars across astronomical 
 ### 🔍 Step 1: Star Detection  
 Detecting stars using `cv2.HoughCircles`:
 
-![Star Detection](examples/star_detection.png)
+![image_alt](https://github.com/shifaaKh28/Bereshit_101/blob/main/6eSSp9awZ4jPd4K3MG6CrU.jpg)
 
 ---
 
 ### 🧾 Step 2: Saved Coordinates  
 Textual output of detected star coordinates:
 
-![Detected Coordinates](examples/detected_coordinates.png)
+![image_alt](https://github.com/shifaaKh28/Bereshit_101/blob/main/6eSSp9awZ4jPd4K3MG6CrU.jpg)
 
 ---
 
 ### 🔗 Step 3: Star Matching  
 Using affine transform + RANSAC to match stars between images:
 
-![Star Matching Result](examples/matching_result.png)
+![image_alt](https://github.com/shifaaKh28/Bereshit_101/blob/main/6eSSp9awZ4jPd4K3MG6CrU.jpg)
 
 ---
 
