@@ -1,0 +1,5 @@
+Image 1: fr2.jpg
+Image 2: ST_db2.png
+Stars detected: 16 (img1), 19 (img2)
+Source (img1) points used: [(379, 57, 7, 55), (255, 525, 8, 98), (483, 449, 6, 227)]
+Destination (img2) points used: [(594, 32, 7, 212), (446, 296, 7, 85), (228, 598, 7, 254)]
