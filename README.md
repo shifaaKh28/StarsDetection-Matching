@@ -1,4 +1,4 @@
-# 🌟 StarMatcherToolkit
+# 🌟 Star Matching
 
 This project implements multiple methods for matching stars across astronomical images — both synthetic (from Stellarium) and real photographs (e.g., iPhone). It is based on affine transformations, RANSAC, and visual alignment methods.
 
